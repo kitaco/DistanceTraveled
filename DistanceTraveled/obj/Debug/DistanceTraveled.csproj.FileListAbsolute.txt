@@ -1,0 +1,9 @@
+C:\Users\Ki\Google Drive\Programming Fundamentals\DistanceTraveled\DistanceTraveled\bin\Debug\DistanceTraveled.exe.config
+C:\Users\Ki\Google Drive\Programming Fundamentals\DistanceTraveled\DistanceTraveled\obj\Debug\DistanceTraveled.csprojResolveAssemblyReference.cache
+C:\Users\Ki\Google Drive\Programming Fundamentals\DistanceTraveled\DistanceTraveled\obj\Debug\DistanceTraveled.Form1.resources
+C:\Users\Ki\Google Drive\Programming Fundamentals\DistanceTraveled\DistanceTraveled\obj\Debug\DistanceTraveled.Properties.Resources.resources
+C:\Users\Ki\Google Drive\Programming Fundamentals\DistanceTraveled\DistanceTraveled\obj\Debug\DistanceTraveled.csproj.GenerateResource.Cache
+C:\Users\Ki\Google Drive\Programming Fundamentals\DistanceTraveled\DistanceTraveled\bin\Debug\DistanceTraveled.exe
+C:\Users\Ki\Google Drive\Programming Fundamentals\DistanceTraveled\DistanceTraveled\bin\Debug\DistanceTraveled.pdb
+C:\Users\Ki\Google Drive\Programming Fundamentals\DistanceTraveled\DistanceTraveled\obj\Debug\DistanceTraveled.exe
+C:\Users\Ki\Google Drive\Programming Fundamentals\DistanceTraveled\DistanceTraveled\obj\Debug\DistanceTraveled.pdb
